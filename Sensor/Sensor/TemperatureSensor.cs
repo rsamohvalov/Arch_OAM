@@ -2,31 +2,30 @@
 
 namespace Sensor
 {
-    public class PressureSensor : Sensor
+    public class TemperatureSensor : Sensor
     {
         private double value;
-        public PressureSensor(string id ) : base( id )
+        public TemperatureSensor(string id) : base(id)
         {
             value = 0;
-
         }
-        private void GetCurrentPressure()
+        private void GetCurrentTemperature()
         {
             value = 111;
         }
         public override SensorDTO ReadValue()
         {
-            GetCurrentPressure();
+            GetCurrentTemperature();
             return new SensorDTO(base.GetId(), value.ToString());
         }
     }
 
-    public class PressureSensorCreator: SensorProvider
+    public class TemperatureSensorCreator : SensorProvider
     {
-        public PressureSensorCreator() { }
+        public TemperatureSensorCreator() { }
         public override Sensor CreateSensor(string id)
         {
-            return new PressureSensor(id);
+            return new TemperatureSensor(id);
         }
     }
 }
