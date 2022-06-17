@@ -1,0 +1,3 @@
+C:\Project\ArchOAM\Sensor\Sensor\obj\Debug\netcoreapp2.0\Sensor.csprojAssemblyReference.cache
+C:\Project\ArchOAM\Sensor\Sensor\obj\Debug\netcoreapp2.0\Sensor.AssemblyInfoInputs.cache
+C:\Project\ArchOAM\Sensor\Sensor\obj\Debug\netcoreapp2.0\Sensor.AssemblyInfo.cs
