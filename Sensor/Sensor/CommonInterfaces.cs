@@ -43,7 +43,7 @@ namespace Sensor
 
     public abstract class SensorProvider
     {
-        public abstract Sensor CreateSensor();
+        public abstract Sensor CreateSensor(string id);
     }
 
     public interface ISensorReader
