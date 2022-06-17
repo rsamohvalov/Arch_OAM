@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Sensor
+namespace Sensors
 {
     public class SensorDTO
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Sensor
+namespace Sensors
 {
     public class PressureSensor : Sensor
     {

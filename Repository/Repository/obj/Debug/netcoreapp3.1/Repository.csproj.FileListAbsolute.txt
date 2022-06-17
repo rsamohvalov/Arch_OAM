@@ -1,0 +1,15 @@
+C:\Project\ArchOAM\Repository\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Project\ArchOAM\Repository\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Project\ArchOAM\Repository\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Project\ArchOAM\Repository\Repository\bin\Debug\netcoreapp3.1\Agregator.dll
+C:\Project\ArchOAM\Repository\Repository\bin\Debug\netcoreapp3.1\Sensor.dll
+C:\Project\ArchOAM\Repository\Repository\bin\Debug\netcoreapp3.1\Agregator.pdb
+C:\Project\ArchOAM\Repository\Repository\bin\Debug\netcoreapp3.1\Sensor.pdb
+C:\Project\ArchOAM\Repository\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Project\ArchOAM\Repository\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Project\ArchOAM\Repository\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Project\ArchOAM\Repository\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Project\ArchOAM\Repository\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Project\ArchOAM\Repository\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+C:\Project\ArchOAM\Repository\Repository\bin\Debug\netcoreapp3.1\Users.dll
+C:\Project\ArchOAM\Repository\Repository\bin\Debug\netcoreapp3.1\Users.pdb

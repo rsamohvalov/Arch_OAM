@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Users/1.0.0": {
+        "dependencies": {
+          "Agregator": "1.0.0",
+          "Sensor": "1.0.0"
+        },
+        "runtime": {
+          "Users.dll": {}
+        }
+      },
+      "Agregator/1.0.0": {
+        "dependencies": {
+          "Sensor": "1.0.0"
+        },
+        "runtime": {
+          "Agregator.dll": {}
+        }
+      },
+      "Sensor/1.0.0": {
+        "runtime": {
+          "Sensor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Users/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Agregator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sensor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

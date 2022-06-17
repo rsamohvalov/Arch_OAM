@@ -1,0 +1,11 @@
+C:\Project\ArchOAM\Agregator\Agregator\bin\Debug\netcoreapp3.1\Agregator.deps.json
+C:\Project\ArchOAM\Agregator\Agregator\bin\Debug\netcoreapp3.1\Agregator.dll
+C:\Project\ArchOAM\Agregator\Agregator\bin\Debug\netcoreapp3.1\Agregator.pdb
+C:\Project\ArchOAM\Agregator\Agregator\bin\Debug\netcoreapp3.1\Sensor.dll
+C:\Project\ArchOAM\Agregator\Agregator\bin\Debug\netcoreapp3.1\Sensor.pdb
+C:\Project\ArchOAM\Agregator\Agregator\obj\Debug\netcoreapp3.1\Agregator.csprojAssemblyReference.cache
+C:\Project\ArchOAM\Agregator\Agregator\obj\Debug\netcoreapp3.1\Agregator.AssemblyInfoInputs.cache
+C:\Project\ArchOAM\Agregator\Agregator\obj\Debug\netcoreapp3.1\Agregator.AssemblyInfo.cs
+C:\Project\ArchOAM\Agregator\Agregator\obj\Debug\netcoreapp3.1\Agregator.csproj.CopyComplete
+C:\Project\ArchOAM\Agregator\Agregator\obj\Debug\netcoreapp3.1\Agregator.dll
+C:\Project\ArchOAM\Agregator\Agregator\obj\Debug\netcoreapp3.1\Agregator.pdb

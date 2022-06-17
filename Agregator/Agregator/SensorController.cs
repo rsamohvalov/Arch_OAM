@@ -1,7 +1,14 @@
 ﻿using System;
-using Sensor;
+using System.Collections.Generic;
+using Sensors;
 
-namespace Agregator {
+namespace Agregators {
+    public interface ISensorWriteRepository {
+        public void Insert( SensorDTO dto );
+        public void BulkInsert( List<SensorDTO> DtoList );
+        public void Create( Sensor sensor );
+    }
+
     public class SensorController {
         private ISensorReader SensorReader;
         public SensorController( ISensorReader reader) {
