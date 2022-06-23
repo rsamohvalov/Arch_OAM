@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Sensor"
   ],
+  "SelectedNode": "\\Sensor\\Sensor.sln",
   "PreviewInSolutionExplorer": false
 }
