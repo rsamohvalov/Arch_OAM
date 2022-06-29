@@ -1,10 +1,8 @@
 C:\Project\ArchOAM\Sensor\Sensor\bin\Debug\netcoreapp3.1\Sensor.deps.json
 C:\Project\ArchOAM\Sensor\Sensor\bin\Debug\netcoreapp3.1\Sensor.dll
 C:\Project\ArchOAM\Sensor\Sensor\bin\Debug\netcoreapp3.1\Sensor.pdb
-C:\Project\ArchOAM\Sensor\Sensor\obj\Debug\netcoreapp3.1\Sensor.csprojAssemblyReference.cache
 C:\Project\ArchOAM\Sensor\Sensor\obj\Debug\netcoreapp3.1\Sensor.AssemblyInfoInputs.cache
 C:\Project\ArchOAM\Sensor\Sensor\obj\Debug\netcoreapp3.1\Sensor.AssemblyInfo.cs
 C:\Project\ArchOAM\Sensor\Sensor\obj\Debug\netcoreapp3.1\Sensor.dll
 C:\Project\ArchOAM\Sensor\Sensor\obj\Debug\netcoreapp3.1\Sensor.pdb
-C:\Project\ArchOAM\Sensor\Sensor\bin\Debug\netcoreapp3.1\Sensor.runtimeconfig.json
-C:\Project\ArchOAM\Sensor\Sensor\bin\Debug\netcoreapp3.1\Sensor.runtimeconfig.dev.json
+C:\Project\ArchOAM\Sensor\Sensor\obj\Debug\netcoreapp3.1\Sensor.csprojAssemblyReference.cache

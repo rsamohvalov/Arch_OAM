@@ -14,10 +14,17 @@ namespace WebApplication.Models {
         public string Surname { get; set; } 
         public string Login { get; set; }
         public string PasswordHash { get; set; }
+        public Role UserRole { get; set; }
+    }
+
+    public class Role {
+        public int RoleId { get; set; }
+        public string Name { get; set; }
     }
 
     public class ApplicationContext : DbContext {
         public DbSet<User> Users { get; set; } = null!;
+        public DbSet<Role> Roles { get; set; } = null;
         public ApplicationContext( DbContextOptions<ApplicationContext> options )
             : base( options ) {
             Database.EnsureCreated();   // создаем базу данных при первом обращении

@@ -1,0 +1,7 @@
+C:\Project\ArchOAM\Sensor\ORM_EF\obj\Debug\netcoreapp3.1\ORM_EF.csprojAssemblyReference.cache
+C:\Project\ArchOAM\Sensor\ORM_EF\obj\Debug\netcoreapp3.1\ORM_EF.AssemblyInfoInputs.cache
+C:\Project\ArchOAM\Sensor\ORM_EF\obj\Debug\netcoreapp3.1\ORM_EF.AssemblyInfo.cs
+C:\Project\ArchOAM\Sensor\ORM_EF\bin\Debug\netcoreapp3.1\ORM_EF.deps.json
+C:\Project\ArchOAM\Sensor\ORM_EF\bin\Debug\netcoreapp3.1\ORM_EF.dll
+C:\Project\ArchOAM\Sensor\ORM_EF\bin\Debug\netcoreapp3.1\ORM_EF.runtimeconfig.json
+C:\Project\ArchOAM\Sensor\ORM_EF\bin\Debug\netcoreapp3.1\ORM_EF.runtimeconfig.dev.json

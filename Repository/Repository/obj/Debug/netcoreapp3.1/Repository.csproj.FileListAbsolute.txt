@@ -13,3 +13,4 @@ C:\Project\ArchOAM\Repository\Repository\obj\Debug\netcoreapp3.1\Repository.dll
 C:\Project\ArchOAM\Repository\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
 C:\Project\ArchOAM\Repository\Repository\bin\Debug\netcoreapp3.1\Users.dll
 C:\Project\ArchOAM\Repository\Repository\bin\Debug\netcoreapp3.1\Users.pdb
+C:\Project\ArchOAM\Repository\Repository\bin\Debug\netcoreapp3.1\appsettings.json

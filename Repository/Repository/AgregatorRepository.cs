@@ -6,7 +6,7 @@ using Users;
 using Sensors;
 
 namespace Repository {
-    public class AgregatorRepository : IAgregatorRepository {
+   /* public class AgregatorRepository : IAgregatorRepository {
         public void Update( Agregator agregator ) { }
         public void Delete( Agregator agregator ) { }
         public void Create( Agregator agregator ) { }
@@ -17,4 +17,5 @@ namespace Repository {
         public void BulkInsert( List<SensorDTO> DtoList ) { }
         public void Create( Sensor sensor ) { }
     }
+    */
 }
